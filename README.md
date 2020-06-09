@@ -64,11 +64,9 @@ The purpose of this project is to use the #tags and other twitter components to 
 ## License
 -------
 
-Twitter Sentiment Analysis is Copyright @ 2020 Tejas Chintala and Akshat Anand. It is open
+Twitter Sentiment Analysis is Copyright @ 2020 [Tejas Chintala](https://github.com/arcado10) and [Akshat Anand](https://github.com/cipheraxat). It is open
 project, and may be redistributed under the terms specified in the
-[LICENSE] file.
-
-[LICENSE]: (https://github.com/arcado10/Twitter-Sentiment-Analysis/blob/master/LICENSE)
+[LICENSE](https://github.com/arcado10/Twitter-Sentiment-Analysis/blob/master/LICENSE) file.
 
 
 ----------------
