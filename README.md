@@ -28,6 +28,7 @@ The purpose of this project is to use the #tags and other twitter components to 
 * Pandas, jupyter
 * Seaborn
 * Matplotlib
+* Tableau
 * etc. 
 
 ## Project Description
@@ -49,9 +50,25 @@ The purpose of this project is to use the #tags and other twitter components to 
      $ cd Twitter-Sentiment-Analysis
    ```
 2. Data processing/transformation scripts are being kept [here](https://github.com/arcado10/Twitter-Sentiment-Analysis/blob/master/Covid-19%20Tweets%20(4).ipynb)
-
+3. Data set in zip format . [here](https://github.com/arcado10/Twitter-Sentiment-Analysis/blob/master/Covid_Tweet_India.zip)
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Notebook/Markdown/Slide Deck Title](https://github.com/arcado10/Twitter-Sentiment-Analysis/blob/master/Covid-19%20Tweets%20(4).ipynb)
+* [Analysis on number of tweets per day](https://github.com/arcado10/Twitter-Sentiment-Analysis/blob/master/covi1.png)
+* [Analysis on Average Polarity Per Day](https://github.com/arcado10/Twitter-Sentiment-Analysis/blob/master/covi2.png)
+
+## Insights
+* ![Insight 1](https://github.com/arcado10/Twitter-Sentiment-Analysis/blob/master/covi1.png)
+* ![Insight 2](https://github.com/arcado10/Twitter-Sentiment-Analysis/blob/master/covi2.png)
 
 ## License
+-------
+
+Twitter Sentiment Analysis is Copyright @ 2020 Tejas Chintala and Akshat Anand. It is open
+project, and may be redistributed under the terms specified in the
+[LICENSE] file.
+
+[LICENSE]: (https://github.com/arcado10/Twitter-Sentiment-Analysis/blob/master/LICENSE)
+
+
+----------------
